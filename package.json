@@ -16,16 +16,32 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "decap-cms-app": "^3.1.11",
     "gatsby": "^5.13.5",
+    "gatsby-plugin-decap-cms": "^4.0.4",
+    "gatsby-plugin-feed": "^5.13.1",
+    "gatsby-plugin-image": "^3.13.1",
+    "gatsby-plugin-manifest": "^5.13.1",
     "gatsby-plugin-sass": "^6.13.1",
+    "gatsby-plugin-sharp": "^5.13.1",
+    "gatsby-remark-images": "^7.13.1",
+    "gatsby-remark-prismjs": "^7.13.1",
+    "gatsby-remark-responsive-iframe": "^6.13.1",
+    "gatsby-source-filesystem": "^5.13.1",
+    "gatsby-transformer-remark": "^6.13.1",
+    "gatsby-transformer-sharp": "^5.13.1",
+    "node-sass": "^9.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "sass": "^1.77.6"
+    "react-netlify-form": "^2.1.5",
+    "sass": "^1.77.6",
+    "swiper": "^11.1.4"
   },
   "devDependencies": {
     "@types/node": "^20.11.19",
     "@types/react": "^18.2.55",
     "@types/react-dom": "^18.2.19",
+    "@types/react-netlify-form": "^2.1.5",
     "typescript": "^5.3.3"
   }
 }

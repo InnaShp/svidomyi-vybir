@@ -1,0 +1,25 @@
+:root {
+	--x: 2px;
+	--x2: 4px;
+	--x3: 6px;
+	--x4: 8px;
+	--x6: 12px;
+	--x7: 14px;
+	--x8: 16px;
+	--x9: 18px;
+	--x12: 24px;
+	--x14: 28px;
+	--x16: 32px;
+	--x20: 40px;
+	--x24: 48px;
+	--x28: 56px;
+	--x32: 64px;
+	--x40: 80px;
+  --x50: 100px;
+	--x60: 120px;
+	--x80: 200px;
+	--radius-4: 4px;
+	--radius-8: 8px;
+	--radius-12: 12px;
+	--radius-24: 24px;
+}
